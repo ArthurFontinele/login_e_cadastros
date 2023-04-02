@@ -1,0 +1,9 @@
+#README
+
+Este é um exemplo simples de como criar uma tabela de usuários em um banco de dados SQLite3, utilizando a linguagem Python. O código permite cadastrar novos usuários e fazer login, verificando se as informações inseridas correspondem às informações armazenadas no banco de dados.
+
+Para alterar o nome do sistema exibido nas mensagens do código, basta modificar o valor da variável "sistema_nome" na primeira parte do código.
+
+Este é apenas um exemplo básico e não deve ser utilizado em ambiente de produção real sem implementação de práticas de segurança adicionais, como a criptografia de senhas e a validação de dados de entrada.
+
+Espero que este código possa ajudar iniciantes em Python a entender melhor como trabalhar com bancos de dados SQLite3. Se você tiver alguma dúvida ou sugestão de melhoria, sinta-se à vontade para entrar em contato!
